@@ -61,4 +61,4 @@ MIT
 ## Credits
 
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-- [pypdf2]https://pypdf2.readthedocs.io/en/3.x/
+- [pypdf2](https://pypdf2.readthedocs.io/en/3.x/)
