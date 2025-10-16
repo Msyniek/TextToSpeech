@@ -18,7 +18,7 @@ Install dependencies with pip:
 pip install pyttsx3 PyPDF2
 ```
 
-> **Note:** On macOS and Linux, you may need additional TTS voices or audio libraries for full functionality. On Windows, most voices work out-of-the-box.
+> **Note:** On macOS and Linux, you may need additional TTS voices or audio libraries for functionality. On Windows, most voices work out-of-the-box.
 
 ## Usage
 
